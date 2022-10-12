@@ -1,0 +1,36 @@
+article, aside, details, figcaption, figure, footer, header,
+hgroup, menu, nav, section { 
+  display: block; 
+}
+body {
+  background-color: rgb(83, 144, 119);
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  background-color: rgb(242, 246, 178);
+}
+
+button{
+    background-color: antiquewhite;
+}
+
+
+
+
+/*body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(23, 23, 22);
+}
